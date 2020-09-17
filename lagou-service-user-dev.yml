@@ -6,5 +6,5 @@ spring:
     password: zy0815
 ip:
   brush:
-    cycle: 6000
+    cycle: 60000
     frequency: 5
